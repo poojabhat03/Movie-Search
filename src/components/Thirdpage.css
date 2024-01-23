@@ -1,0 +1,63 @@
+
+
+.Thirdpage {
+    text-align: center;
+    padding: 20px;
+  }
+  .card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    color: #070606;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  label {
+    margin-bottom: 8px;
+    color: #945757;
+  }
+  
+  input {
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #d958d1;
+    color: #fff;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .forget-password {
+    margin-top: 10px;
+  }
+  
+  .forget-password button {
+    background: none;
+    border: none;
+    color: #066fac;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .forget-password button:hover {
+    color: #f7f5f5;
+  }
+  
+  

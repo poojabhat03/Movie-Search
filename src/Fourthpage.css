@@ -1,0 +1,81 @@
+/* Fourthpage.css */
+
+.FourthPage {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #fffcfc;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    margin-right: 20px;
+    border: 1px solid #ffffff;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: -5px; 
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+ 
+  .slick-slider {
+    margin: 0; 
+  }
+  
+  .slick-track {
+    display: flex; 
+  }
+  
+  
+  .slick-slide {
+    margin-right: 20px !important; 
+  }
+  .slick-slide img {
+    margin-left: 0;
+    scroll-margin-block-end: 0;
+    width: 100%; 
+    height: 400px; 
+    object-fit: cover;
+  }
+  .slick-prev,
+  .slick-next {
+    font-size: 24px;
+    color: #4caf50;
+  }
+  
+  .slick-prev:hover,
+  .slick-next:hover {
+    color: #45a049;
+    margin-top: 100;
+  }
+  
+  .slick-dots li button:before {
+    color: #45a049;
+  }
+  
+  .slick-dots li.slick-active button:before {
+    color: #4caf50;
+  }
+  

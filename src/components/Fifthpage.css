@@ -1,0 +1,50 @@
+
+.FifthPage {
+    text-align: center;
+    padding: 20px;
+  }
+  .card {
+    background-color: #000000;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(255, 252, 252);
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    color: #fdf8f8;
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  label {
+    margin-bottom: 8px;
+    color: #dfdc1b;
+  }
+  
+  input {
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }

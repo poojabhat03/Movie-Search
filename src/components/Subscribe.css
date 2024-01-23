@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #ffffff !important; 
+  }
+  
+  .subscription-option {
+    background-color: #fff;
+    border: 1px solid #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #ff0000 !important; 
+  
+  p {
+    color: #ffffff !important; 
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+}
